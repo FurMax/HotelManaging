@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/MyTestingDemo/InHotelMockTestDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Sale/SaleMachine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Sale/SaleMachineTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hotel/DP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hotel/ListHome.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hotel/MainRun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hotel/Search.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/InHotelMockTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/InHotelTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/MockIteratorTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/MockTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/SearchTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/TestBase.java" charset="GBK" />
+  </component>
+</project>
